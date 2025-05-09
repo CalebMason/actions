@@ -1,0 +1,7 @@
+name: Github Wiki to MkDocs
+description: Action to generate MkDocs from Github Wiki Md
+inputs: {}
+outputs: {}
+runs:
+  using: node22
+  main: ./entry.js
